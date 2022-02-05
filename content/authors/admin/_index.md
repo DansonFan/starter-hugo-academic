@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Princeton Institute for the Science and Technology of Materials
+    url: https://materials.princeton.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
