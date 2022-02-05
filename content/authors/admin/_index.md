@@ -15,12 +15,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=_ANEyH0AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dingxin-fan-426bab129/
 organizations:
   - name: Princeton Institute for the Science and Technology of Materials
     url: https://materials.princeton.edu/
