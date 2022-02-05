@@ -5,9 +5,8 @@ avatar_filename: me_high_res.jpg
 bio: My research interests include density functional theory and scanning probe
   microscopy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Physics/Chemistry
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
