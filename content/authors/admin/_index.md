@@ -1,7 +1,7 @@
 ---
 title: Dingxin Fan
 role: Postdoctoral Research Associate
-avatar_filename: me_high_res.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include density functional theory and scanning probe
   microscopy.
 interests:
