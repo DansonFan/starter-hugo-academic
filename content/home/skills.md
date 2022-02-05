@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 30
-title: Skills
-subtitle: PARSEC
+title: ""
+subtitle: ""
 feature:
   - description: 90%
     icon: r-project
@@ -18,4 +18,6 @@ feature:
     icon_pack: fas
     name: Photography
 widget_id: Skills
+design:
+  columns: PARSEC
 ---
