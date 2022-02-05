@@ -6,6 +6,7 @@ bio: My research interests include density functional theory and scanning probe
   microscopy.
 interests:
   - Computational Physics/Chemistry
+  - Scanning Probe Microscopy.
 social:
   - icon: graduation-cap
     icon_pack: fas
