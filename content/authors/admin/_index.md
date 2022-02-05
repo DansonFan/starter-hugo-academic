@@ -1,6 +1,7 @@
 ---
 title: Dingxin Fan
 role: Postdoctoral Research Associate at Princeton University
+avatar_filename: me_high_res.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
