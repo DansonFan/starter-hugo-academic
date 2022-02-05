@@ -31,4 +31,4 @@ highlight_name: true
 ---
 Dingxin Fan was brought up in Changzhou, Jiangsu province, mainland China. In the summer of 2015 he graduated from Purdue University in Chemical Engineering with the highest distinction and the departmental honors. In the same year, he joined the University of Texas at Austin as a Ph.D. student, and worked with Prof. Chelikowsky. His research is primarily on noncontact atomic force microscopy (nc-AFM) related simulations using density functional theory (DFT) based methods. In Dec. 2021, he received his Ph.D. degree in Chemical Engineering from UT-Austin. In Jan. 2022, Dingxin joined Princeton University as a postdoc scholar working with Prof. Nan Yao, the founding director of Princeton's preeminent Imaging and Analysis Center.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
