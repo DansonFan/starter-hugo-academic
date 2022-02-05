@@ -29,15 +29,12 @@ organizations:
     url: https://materials.princeton.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemical Engineering
+      institution: University of Texas at Austin
+      year: 2021
+    - course: BSc in Chemical Engineering
+      institution: Purdue University
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
