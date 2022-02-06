@@ -5,8 +5,7 @@ publication_types:
   - "2"
 authors:
   - Dingxin Fan
-  - Yuki Sakai
-  - and James R. Chelikowsky
+  - Yuki Sakai & James R. Chelikowsky
 doi: https://doi.org/10.1021/acs.nanolett.9b02097
 abstract: Noncontact atomic force microscopy (nc-AFM) with a CO-functionalized
   tip can image submolecular structures through high-resolution images with the
