@@ -9,12 +9,12 @@ feature:
     icon: r-project
     icon_pack: fab
     name: PARSEC
-  - description: 100%
+  - description: 80%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: VASP
+  - description: 80%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Matlab
 ---
