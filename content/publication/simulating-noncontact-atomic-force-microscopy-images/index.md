@@ -38,7 +38,7 @@ abstract: A scanning probe with an atomically sharp tip is used in atomic force
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2019-11-27T08:17:20.107Z
