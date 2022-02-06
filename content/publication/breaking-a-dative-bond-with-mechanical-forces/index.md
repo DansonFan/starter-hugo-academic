@@ -29,6 +29,7 @@ abstract: Bond breaking and forming are essential components of chemical
   forces, accompanied by changes of the spin state of the system. Our combined
   experimental and computational studies provide a deeper understanding of the
   chemical bond breaking process.
+url_pdf: ""
 draft: false
 featured: false
 image:
