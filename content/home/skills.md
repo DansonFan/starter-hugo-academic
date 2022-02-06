@@ -6,8 +6,7 @@ title: Skills
 subtitle: ""
 feature:
   - description: 100%
-    icon: r-project
-    icon_pack: fab
+    icon: pandora
     name: PARSEC
   - description: 80%
     icon: org-gc
