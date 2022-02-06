@@ -44,6 +44,7 @@ abstract: NiFe and CoFe (MFe) layered double hydroxides (LDHs) are among the
   of MFe LDHs.
 draft: false
 featured: false
+url_pdf: https://www.nature.com/articles/s41467-020-16237-1.pdf
 image:
   filename: featured
   focal_point: Smart
