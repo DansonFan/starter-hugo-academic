@@ -5,8 +5,7 @@ publication_types:
 authors:
   - James R. Chelikowsky
   - Dingxin Fan
-  - Alex J. Lee
-  - and Yuki Sakai
+  - Alex J. Lee & Yuki Sakai
 doi: https://doi.org/10.1103/PhysRevMaterials.3.110302
 abstract: A scanning probe with an atomically sharp tip is used in atomic force
   microscopy. As the probe is rastered over the specimen of interest, changes in
