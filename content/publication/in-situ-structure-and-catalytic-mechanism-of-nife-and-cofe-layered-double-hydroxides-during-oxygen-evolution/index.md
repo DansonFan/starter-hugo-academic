@@ -43,10 +43,10 @@ abstract: NiFe and CoFe (MFe) layered double hydroxides (LDHs) are among the
   and single Fe sites, fundamentally accounting for the high catalytic activity
   of MFe LDHs.
 draft: false
-featured: false
 url_pdf: https://www.nature.com/articles/s41467-020-16237-1.pdf
+featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2020-05-20T06:55:14.924Z
