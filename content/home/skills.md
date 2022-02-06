@@ -9,7 +9,7 @@ feature:
     icon: pandora
     name: PARSEC
   - description: 80%
-    icon: org-gc
+    icon: VASP
     name: VASP
   - description: 80%
     icon: camera-retro
