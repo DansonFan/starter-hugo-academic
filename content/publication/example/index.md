@@ -1,24 +1,34 @@
 ---
-abstract: Immense strides have been made in increasing the resolution of
-  scanning probe microscopy. Noncontact atomic force microscopy (nc-AFM) now
-  offers one the ability to characterize and visualize single molecules with
-  subatomic resolution. Specifically, nc-AFM with a carbon monoxide (CO)
-  functionalized tip has the ability to discriminate functional groups (–C=C–,
-  –CH2, –C=O, …), although discriminating atomic species often remains as an
-  ongoing challenge. Here, real-space pseudopotentials constructed within
-  density functional theory are employed to accurately simulate nc-AFM images of
-  molecules containing heteroatoms (S, I, and N) within dibenzothiophene (DBT),
-  2-iodotriphenylene (ITP), acridine (ACR) and ferrous phthalocyanine (FePc). It
-  is found that S and I atoms can be easily identified from C based on their
-  unique features. For N atoms, a use of tip functionalization is proposed to
-  effectively discriminate them from C atoms.
+abstract: Bond breaking and forming are essential components of chemical
+  reactions. Recently, the structure and formation of covalent bonds in single
+  molecules have been studied by non-contact atomic force microscopy (AFM).
+  Here, we report the details of a single dative bond breaking process using
+  non-contact AFM. The dative bond between carbon monoxide and ferrous
+  phthalocyanine was ruptured via mechanical forces applied by atomic force
+  microscope tips; the process was quantitatively measured and characterized
+  both experimentally and via quantum-based simulations. Our results show that
+  the bond can be ruptured either by applying an attractive force of ~150 pN or
+  by a repulsive force of ~220 pN with a significant contribution of shear
+  forces, accompanied by changes of the spin state of the system. Our combined
+  experimental and computational studies provide a deeper understanding of the
+  chemical bond breaking process.
 slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Dingxin Fan & James R. Chelikowsky
-author_notes: []
+  - Pengcheng Chen
+  - Dingxin Fan
+  - Yunlong Zhang
+  - Annabella Selloni
+  - Emily A. Carter
+  - Craig B. Arnold
+  - David C. Dankworth
+  - Steven P. Rucker
+  - James R. Chelikowsky & Nan Yao.
+author_notes:
+  - "These authors contributed equally: Pengcheng Chen"
+  - Dingxin Fan
 publication: ""
 summary: ""
 url_dataset: ""
@@ -26,8 +36,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Atomic Fingerprinting of Heteroatoms Using Noncontact Atomic Force Microscopy
-doi: https://doi.org/10.1002/smll.202102977
+title: Breaking a Dative Bond with Mechanical Forces
+doi: https://doi.org/10.1038/s41467-021-25932-6
 featured: true
 tags: []
 projects: []
