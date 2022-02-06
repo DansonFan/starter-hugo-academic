@@ -10,8 +10,7 @@ feature:
     icon_pack: fab
     name: PARSEC
   - description: 80%
-    icon: chart-line
-    icon_pack: fas
+    icon: VASP
     name: VASP
   - description: 80%
     icon: camera-retro
