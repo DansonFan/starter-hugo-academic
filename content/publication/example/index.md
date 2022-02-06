@@ -16,10 +16,10 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: []
-author_notes:
-  - Equal contribution
-  - Equal contribution
+authors:
+  - Dingxin Fan
+  - James R. Chelikowsky
+author_notes: []
 publication: ""
 summary: ""
 url_dataset: ""
@@ -39,7 +39,7 @@ image:
   filename: featured.jpg
 date: 2021-10-01T05:44:19.383Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
