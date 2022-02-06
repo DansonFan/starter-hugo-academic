@@ -5,8 +5,7 @@ publication_types:
   - "2"
 authors:
   - Dingxin Fan
-  - Yuki Sakai
-  - and James R. Chelikowsky
+  - Yuki Sakai & James R. Chelikowsky
 doi: https://doi.org/10.1103/PhysRevMaterials.4.053802
 abstract: "Noncontact mode of atomic force microscopy (nc-AFM) employing a
   CO-functionalized tip is a very powerful tool for studying molecular
