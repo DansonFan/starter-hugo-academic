@@ -11,7 +11,7 @@ authors:
   - Craig B. Arnold
   - David C. Dankworth
   - Steven P. Rucker
-  - James R. Chelikowsky & Nan Yao.
+  - James R. Chelikowsky & Nan Yao
 author_notes:
   - "These authors contributed equally: Pengcheng Chen"
   - Dingxin Fan
