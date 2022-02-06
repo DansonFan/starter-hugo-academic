@@ -30,8 +30,8 @@ abstract: Bond breaking and forming are essential components of chemical
   experimental and computational studies provide a deeper understanding of the
   chemical bond breaking process.
 draft: false
-url_pdf: ""
-featured: false
+url_pdf: https://www.nature.com/articles/s41467-021-25932-6.pdf
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
