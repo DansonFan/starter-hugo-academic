@@ -8,8 +8,7 @@ authors:
   - Maria K. Y. Chan
   - Zhi-Jian Zhao
   - Joseph Kubal
-  - Dingxin Fan
-  - "& Jeffrey Greeley"
+  - Dingxin Fan & Jeffrey Greeley
 doi: https://doi.org/10.1021/acs.jpcc.5b03169
 abstract: Electrochemical potential/pH (Pourbaix) diagrams underpin many aqueous
   electrochemical processes and are central to the identification of stable
