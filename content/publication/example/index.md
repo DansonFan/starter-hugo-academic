@@ -17,8 +17,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Dingxin Fan
-  - James R. Chelikowsky
+  - Dingxin Fan & James R. Chelikowsky
 author_notes: []
 publication: ""
 summary: ""
