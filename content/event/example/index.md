@@ -19,8 +19,8 @@ title: Using real-space simulations of non-contact atomic force microscopy to
   distinguish functional groups, atomic species and molecular geometries in
   organic molecules
 location: Online
-date: 2021-03-15T12:00:00.000Z
-date_end: 2021-03-19T21:30:00.000Z
+date: 2021-03-15
+date_end: 2021-03-19
 all_day: true
 event: APS March Meeting 2021
 event_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
