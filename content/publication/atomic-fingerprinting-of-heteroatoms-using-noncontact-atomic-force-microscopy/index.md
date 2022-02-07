@@ -1,6 +1,6 @@
 ---
 title: Atomic Fingerprinting of Heteroatoms Using Noncontact Atomic Force Microscopy
-subtitle: Small, 17, 2102977
+subtitle: ""
 publication_types:
   - "2"
 authors:
