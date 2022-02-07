@@ -12,7 +12,7 @@ abstract: >-
 
 
   In a joint experimental-theoretical work, we report the details of a single dative bond breaking process using nc-AFM. The dative bond between carbon monoxide (CO) and ferrous phthalocyanine (FePc) is ruptured via mechanical forces applied by AFM tips. We employ real-space pseudopotentials constructed within density functional theory code, PARSEC (http://real-space.org/), to simulate nc-AFM images and calculate the intermolecular forces. We find the dative bond between CO and FePc can be ruptured either by an attractive force (Cu tip) of ~150 pN or by a repulsive force (CO tip) of ~220 pN with a significant contribution of shear forces, accompanied by changes of the spin state of the system.
-location: Chicago
+location: Chicago, IL, USA
 date: 2022-03-14T12:00:12.801Z
 date_end: 2022-02-18T22:30:00.000Z
 all_day: false
