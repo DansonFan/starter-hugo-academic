@@ -28,12 +28,12 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: "94305"
+#  country: United States
 links:
   - url: https://meetings.aps.org/Meeting/MAR21/Session/E19.8
 publishDate: 2021-03-15T23:00:00.000Z
