@@ -28,9 +28,9 @@ address:
   postcode: '08540'
   country: United States
   country_code: US
-  - icon: comments
-    icon_pack: fas
-    name: Wechat
+#  - icon: comments
+#    icon_pack: fas
+#    name: Wechat
 #    link: 'weixin://dl/chat?DansonFan18'
 
 # Site header
