@@ -28,8 +28,7 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-links:
-  - url: https://meetings.aps.org/Meeting/MAR21/Session/E19.8
+links: []
 publishDate: 2021-03-15T23:00:00.000Z
 tags: []
 projects: []
