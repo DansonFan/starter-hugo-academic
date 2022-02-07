@@ -5,6 +5,8 @@ publication_types:
 authors:
   - Dingxin Fan & James R. Chelikowsky
 doi: https://doi.org/10.1002/smll.202102977
+publication: 17, 2102977
+publication_short: Small
 abstract: Immense strides have been made in increasing the resolution of
   scanning probe microscopy. Noncontact atomic force microscopy (nc-AFM) now
   offers one the ability to characterize and visualize single molecules with
