@@ -32,4 +32,3 @@ image:
   preview_only: false
 date: 2021-12-04T08:23:29.065Z
 ---
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/FAN-DISSERTATION-2021.pdf" "newtab" >}}.
