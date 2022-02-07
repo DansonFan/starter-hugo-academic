@@ -1,5 +1,5 @@
 ---
-title: Recent Activity
+title: Recent Activities
 subtitle: ""
 date: 2022-02-07T06:13:16.290Z
 summary: ""
