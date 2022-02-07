@@ -15,7 +15,7 @@ abstract: >-
 location: Chicago, IL, USA
 date: 2022-03-14T12:00:12.801Z
 date_end: 2022-02-18T22:30:00.000Z
-all_day: false
+all_day: true
 event: APS March Meeting 2022
 event_url: https://meetings.aps.org/Meeting/MAR22/Session/N31.5
 publishDate: 2022-02-07T09:27:33.922Z
