@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-#email: df1215@princeton.edu
-#address:
-#  street: 86 Olden St
-#  city: Princeton
-#  region: NJ
-#  postcode: '08540'
-#  country: United States
-#  country_code: US
+email: df1215@princeton.edu
+address:
+  street: 86 Olden St
+  city: Princeton
+  region: NJ
+  postcode: '08540'
+  country: United States
+  country_code: US
 #  - icon: comments
 #    icon_pack: fas
 #    name: Wechat
