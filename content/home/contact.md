@@ -25,6 +25,6 @@ weight: 130
       # Enable CAPTCHA challenge to reduce spam?
 #      captcha: false
   
-# design:
+design:
   columns: '2'
 ---
