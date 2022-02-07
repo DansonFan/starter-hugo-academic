@@ -28,18 +28,11 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: "94305"
-#  country: United States
 links:
   - url: https://meetings.aps.org/Meeting/MAR21/Session/E19.8
 publishDate: 2021-03-15T23:00:00.000Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: Image inspired by diffraction patterns of pure
     <sup>3</sup>He droplets shown on a logarithmic color, from Deepak Verma et
@@ -48,15 +41,3 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
