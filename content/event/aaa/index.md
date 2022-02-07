@@ -15,7 +15,7 @@ abstract: Noncontact atomic force microscopy (nc-AFM) with a CO functionalized
   orientation of organic molecules at varies adsorption sites on metal
   substrates. This can be very useful for characterizing large long-chain
   organic molecules in heavy oils and asphaltenes.
-location: Online
+location: Denver, CO, USA
 date: 2020-03-02T13:00:40.886Z
 date_end: 2020-03-06T22:30:00.000Z
 all_day: true
