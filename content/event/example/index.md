@@ -42,8 +42,8 @@ projects:
   - example
 image:
   caption: "Image credit: Image inspired by diffraction patterns of pure
-    (<sup>3)He droplets shown on a logarithmic color, from Deepak Verma et al.,
-    Phys. Rev. B 102, 014504 (2020)."
+    <sup>3</sup>He droplets shown on a logarithmic color, from Deepak Verma et
+    al., Phys. Rev. B 102, 014504 (2020)."
   focal_point: Right
   filename: featured.jpg
 url_code: ""
