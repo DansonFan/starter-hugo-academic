@@ -41,7 +41,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: Image inspired by diffraction patterns of pure 3He
+  caption: "Image credit: Image inspired by diffraction patterns of pure <sup>3He
     droplets shown on a logarithmic color, from Deepak Verma et al., Phys. Rev.
     B 102, 014504 (2020)."
   focal_point: Right
