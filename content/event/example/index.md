@@ -14,7 +14,6 @@ abstract: Imaging the internal chemical structure of molecules remains an
   adsorption sites on metal substrates.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
 title: Using real-space simulations of non-contact atomic force microscopy to
   distinguish functional groups, atomic species and molecular geometries in
   organic molecules
