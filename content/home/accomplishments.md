@@ -59,6 +59,11 @@ item:
   date_start: "2015-08-27"
   description: "Scholarship"
   title: 'Cindy and Mike Zeglin Endowed Undergraduate Scholarship in Chemical Engineering'
+- certificate_url: https://drive.google.com/file/d/1oQbZgQAZT-6XVdpwROc2QKKQSWQ1e4M/preview
+  date_end: ""
+  date_start: "2017-08-27"
+  description: "Fellowship"
+  title: 'Charles M. Simmons Endowed Presidential Fellowship in Engineering'
 - certificate_url: https://drive.google.com/file/d/1p-z7XpqPpMGGlXbJ7f0oTn7hlx8c0EBh/preview
   date_end: ""
   date_start: "2020-08-27"
