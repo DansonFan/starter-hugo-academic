@@ -90,7 +90,7 @@ item:
   organization: International Journal of Computational Theoretical Chemistry (IJCTC)
   organization_url: https://sciencepublishinggroup.com/journal/peerreviewers?journalid=228
   
-  - certificate_url: https://drive.google.com/file/d/1Qw0HcA2rH7pXC4SBM2rj-m6i_Z6hFicy/preview
+- certificate_url: https://drive.google.com/file/d/1Qw0HcA2rH7pXC4SBM2rj-m6i_Z6hFicy/preview
   date_end: ""
   date_start: "2021-04-11"
   description: "Certificate"
