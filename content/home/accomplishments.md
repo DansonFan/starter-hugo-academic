@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards & Fellowships'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -99,4 +99,10 @@ item:
   
 design:
   columns: '2' 
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
