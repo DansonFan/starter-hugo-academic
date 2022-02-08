@@ -24,21 +24,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://drive.google.com/file/d/1eye-pkXlGTgKXJLtH0R4hBDCb_90q8VN/preview
-  date_end: "2021-06-07"
-  date_start: "2021-06-09"
+  date_end: "2021-06-09"
+  date_start: "2021-06-07"
   description: "Winner of PetroPhase2021 Best Student Poster Award, 2021"
   organization: Petrophase2021
   organization_url: https://petrophase2021.vfairs.com/
   title: Simulation of Noncontact Atomic Force Microscopy (nc-AFM) Images Using Real-Space Pseudopotential Calculations
   url: ""
-#- certificate_url: https://www.edx.org
-#  date_end: ""
-#  date_start: "2021-01-01"
-#  description: Formulated informed blockchain models, hypotheses, and use cases.
-#  organization: edX
-#  organization_url: https://www.edx.org
-#  title: Blockchain Fundamentals
-#  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://drive.google.com/file/d/1MaYo9G4JUtd7REW_Wd6HcUQrk2T5jLhI/preview
+  date_end: "2021-03-19"
+  date_start: "2021-03-15"
+  description: The 2021 Ovshinsky Student Travel Grant Award - APS Division of Materials Physics (DMP)
+  organization: American Physical Society
+  organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
+  title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
 #  date_start: "2020-07-01"
