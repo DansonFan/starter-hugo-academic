@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://petrophase2021.vfairs.com/
+- certificate_url: https://drive.google.com/file/d/1eye-pkXlGTgKXJLtH0R4hBDCb_90q8VN/preview
   date_end: "2021-06-07"
   date_start: "2021-06-09"
   description: "Winner of PetroPhase2021 Best Student Poster Award, 2021"
