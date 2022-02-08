@@ -29,7 +29,7 @@ item:
   description: "Winner of PetroPhase2021 Best Student Poster Award, 2021"
   organization: Petrophase2021
   organization_url: https://petrophase2021.vfairs.com/
-  title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
+  title: Simulation of Noncontact Atomic Force Microscopy (nc-AFM) Images Using Real-Space Pseudopotential Calculations
   url: ""
 #- certificate_url: https://www.edx.org
 #  date_end: ""
