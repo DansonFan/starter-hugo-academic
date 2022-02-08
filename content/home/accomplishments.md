@@ -86,7 +86,7 @@ item:
   date_end: ""
   date_start: "2021-10-12"
   description: "Certificate"
-  title: 'Certificate of Reviewing for International Journal of Computational Theoretical Chemistry (IJCTC)'
+  title: 'Certificate of Reviewing for IJCTC'
   organization: International Journal of Computational Theoretical Chemistry (IJCTC)
   organization_url: https://sciencepublishinggroup.com/journal/peerreviewers?journalid=228
   
@@ -94,8 +94,8 @@ item:
   date_end: ""
   date_start: "2021-04-11"
   description: "Certificate"
-  title: 'Certificate of Reviewing for American Chemical Society (ACS)'
-  organization: American Chemical Society
+  title: 'Certificate of Reviewing for ACS'
+  organization: American Chemical Society (ACS)
   
 design:
   columns: '2' 
