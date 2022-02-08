@@ -26,7 +26,7 @@ item:
 - certificate_url: https://drive.google.com/file/d/1eye-pkXlGTgKXJLtH0R4hBDCb_90q8VN/preview
   date_end: ""
   date_start: "2021-06-07"
-  description: "Winner of PetroPhase2021 Best Student Poster Award, 2021"
+  description: "PetroPhase2021 Best Student Poster Award, 2021"
   organization: Petrophase2021
   organization_url: https://petrophase2021.vfairs.com/
   title: Simulation of Noncontact Atomic Force Microscopy (nc-AFM) Images Using Real-Space Pseudopotential Calculations
