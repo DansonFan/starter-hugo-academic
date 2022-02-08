@@ -41,10 +41,10 @@ item:
 - certificate_url: https://drive.google.com/file/d/13Rzs6vlCM-wzqfQdQoROqs4_ooRBioLQ/preview
   date_end: ""
   date_start: "2020-08-07"
-  description: ""
+  description: "Graduate Diploma"
   organization: Purdue University
 #  organization_url: https://www.datacamp.com
-  title: 'Graduate Diploma from Purdue University - West Lafayette - Graduate with Highest Distinction'
+  title: 'Graduate with Highest Distinction - Purdue University - West Lafayette'
 #  url: ""
 
 design:
