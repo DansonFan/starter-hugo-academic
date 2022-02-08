@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Recent Activities
+widget_id: ''
 headless: true
 weight: 60
-title: 'Recent & Upcoming Talks'
+title: 'Recent Activities'
 subtitle: null
 content:
   filters:
