@@ -38,10 +38,10 @@ item:
   organization: American Physical Society March Meeting 2021
   organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
   title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
-#- certificate_url: https://www.datacamp.com
-#  date_end: "2020-12-21"
-#  date_start: "2020-07-01"
-#  description: ""
+- certificate_url: https://drive.google.com/file/d/13Rzs6vlCM-wzqfQdQoROqs4_ooRBioLQ/preview
+  date_end: ""
+  date_start: "2020-07-21"
+  description: "Graduate Diploma from Purdue University - West Lafayette - Graduate with Highest Distinction"
 #  organization: DataCamp
 #  organization_url: https://www.datacamp.com
 #  title: 'Object-Oriented Programming in R'
