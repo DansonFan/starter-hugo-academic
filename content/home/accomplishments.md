@@ -50,7 +50,7 @@ item:
   date_end: ""
   date_start: "2012-05-04"
   description: “Award Certificate”
-  organization: Purdue University Calument - Department of Chemistry and Physics
+  organization: Purdue University - Calument - Department of Chemistry and Physics
 #  organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
   title: 'General Chemistry Award'
 #  url: ""
