@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards & Fellowships'
-#subtitle:
+subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-#- certificate_url: https://www.coursera.org
-#  date_end: "2021-06-07"
-#  date_start: "2021-06-09"
+- certificate_url: https://petrophase2021.vfairs.com/
+  date_end: "2021-06-07"
+  date_start: "2021-06-09"
   description: "Winner of PetroPhase2021 Best Student Poster Award, 2021"
-#  organization: Coursera
-#  organization_url: https://www.coursera.org
+  organization: Petrophase2021
+  organization_url: https://petrophase2021.vfairs.com/
   title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
-#  url: ""
+  url: ""
 #- certificate_url: https://www.edx.org
 #  date_end: ""
 #  date_start: "2021-01-01"
@@ -48,6 +48,6 @@ item:
 #  title: 'Object-Oriented Programming in R'
 #  url: ""
 
-#design:
-#  columns: '2' 
+design:
+  columns: '2' 
 ---
