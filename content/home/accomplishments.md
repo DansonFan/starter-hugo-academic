@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#item:
+item:
 #- certificate_url: https://www.coursera.org
-#  date_end: ""
-#  date_start: "2021-01-25"
-#  description: ""
+#  date_end: "2021-06-07"
+#  date_start: "2021-06-09"
+  description: "Winner of PetroPhase2021 Best Student Poster Award, 2021"
 #  organization: Coursera
 #  organization_url: https://www.coursera.org
-#  title: Neural Networks and Deep Learning
+  title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
 #  url: ""
 #- certificate_url: https://www.edx.org
 #  date_end: ""
