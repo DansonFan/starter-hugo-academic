@@ -22,7 +22,7 @@ education:
     - course: PhD in Chemical Engineering
       institution: University of Texas at Austin
       year: 2021
-    - course: BSc in Chemical Engineering
+    - course: BSc in Chemical Engineering, Highest Distinction
       institution: Purdue University
       year: 2015
 email: ""
