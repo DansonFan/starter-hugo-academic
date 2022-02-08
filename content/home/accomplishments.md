@@ -118,5 +118,5 @@ order: desc
   
 design:
   columns: '2' 
-  view: '2'
+  view: 2
 ---
