@@ -64,7 +64,17 @@ item:
   date_start: "2017-08-27"
   description: "Fellowship"
   title: 'Charles M. Simmons Endowed Presidential Fellowship in Engineering'
-
+- certificate_url: https://drive.google.com/file/d/1p-z7XpqPpMGGlXbJ7f0oTn7hlx8c0EBh/preview
+  date_end: ""
+  date_start: "2020-08-27"
+  description: "Fellowship"
+  title: 'James R. and Merle Fair Endowed Graduate Fellowship in Chemical Engineering'
+  - certificate_url: https://drive.google.com/file/d/1anJWLjjSCvGK-D0ZMoVh_0vpleV5y1H5/preview
+  date_end: ""
+  date_start: "2021-01-27"
+  description: "Fellowship"
+  title: 'Dr. Robert Schechter Endowed Fellowship in Chemical Engineering'
+  
 design:
   columns: '2' 
 ---
