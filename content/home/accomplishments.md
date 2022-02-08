@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2021-03-15"
   description: The 2021 Ovshinsky Student Travel Grant Award - APS Division of Materials Physics (DMP)
-  organization: American Physical Society
+  organization: American Physical Society March Meeting 2021
   organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
   title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
 #- certificate_url: https://www.datacamp.com
