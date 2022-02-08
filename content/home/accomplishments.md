@@ -40,7 +40,7 @@ item:
   title: Using real-space simulations of non-contact atomic force microscopy to distinguish functional groups, atomic species and molecular geometries in organic molecules
 - certificate_url: https://drive.google.com/file/d/13Rzs6vlCM-wzqfQdQoROqs4_ooRBioLQ/preview
   date_end: ""
-  date_start: "2020-08-07"
+  date_start: "2015-08-07"
   description: "Graduate Diploma"
   organization: Purdue University
 #  organization_url: https://www.datacamp.com
