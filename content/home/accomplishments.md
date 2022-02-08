@@ -59,7 +59,7 @@ item:
   date_start: "2015-08-27"
   description: "Scholarship"
   title: 'Cindy and Mike Zeglin Endowed Undergraduate Scholarship in Chemical Engineering'
-- certificate_url: https://drive.google.com/file/d/1oQbZgQAZT-6XVdpwROc2QKKQSWQ1e4M/preview
+- certificate_url: https://drive.google.com/file/d/1DzTa8OtHrH47UOPzj8uuHq9DhhckCiLk/preview
   date_end: ""
   date_start: "2017-08-27"
   description: "Fellowship"
