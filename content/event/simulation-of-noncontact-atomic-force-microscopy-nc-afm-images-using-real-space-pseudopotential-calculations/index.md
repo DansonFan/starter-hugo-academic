@@ -41,13 +41,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Figure 1[1]. (a) Relative frequency shift (df) along the direction
-    indicated by the arrow in the inset structural image of the ACR molecule as
-    a function of the x position (Å) at different tip heights. The dashed curve
-    corresponds to the CO tip, and the solid curves correspond to the Cu tip.
-    The three vertical dashed lines indicate the positions of the edge C, N, and
-    C atoms. (b) Experimental AFM image of ACR (CO tip); (c)-(e) simulated
-    nc-AFM images. (c) CO tip, tip height=3.18 Å, k_CO=0.4 N/m, gray scale; (d)
-    Cu tip, tip height=3.18 Å, RGB scale; (e) Cu tip, tip height=2.38 Å, RGB
-    scale. (b) is adapted from Ref [2].
+  caption: ""
 ---
