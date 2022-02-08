@@ -19,10 +19,6 @@ abstract: >-
   N containing molecules.
 
 
-  Work is supported by the Welch Foundation under grant F-1837 and the U.S. Department of Energy under DOE/DE-FG02-06ER46286. Computational resources were provided by the National Energy Research Scientific Computing (NERSC) and the Texas Advanced Computing Center (TACC).
-
-
-
   References
 
   [1] D. Fan & J. R. Chelikowsky. Atomic Fingerprinting of Heteroatoms Using Noncontact Atomic Force Microscopy. Small, 17, 2102977, 2021.
