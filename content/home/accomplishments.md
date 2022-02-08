@@ -46,7 +46,14 @@ item:
 #  organization_url: https://www.datacamp.com
   title: 'Graduate with Highest Distinction - Purdue University - West Lafayette'
 #  url: ""
-
+- certificate_url: https://drive.google.com/file/d/1DStwtfFPXGA7hD2u98SG_zNPiEe3yY2S/preview
+date_end: ""
+  date_start: "2012-05-04"
+  description: “Award Certificate”
+  organization: Purdue University Calument - Department of Chemistry and Physics
+#  organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
+  title: General Chemistry Award
+  
 design:
   columns: '2' 
 ---
