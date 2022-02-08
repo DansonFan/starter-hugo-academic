@@ -42,7 +42,7 @@ item:
   date_end: ""
   date_start: "2020-08-07"
   description: ""
-#  organization: DataCamp
+  organization: Purdue University
 #  organization_url: https://www.datacamp.com
   title: 'Graduate Diploma from Purdue University - West Lafayette - Graduate with Highest Distinction'
 #  url: ""
