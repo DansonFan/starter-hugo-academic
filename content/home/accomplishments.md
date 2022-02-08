@@ -56,7 +56,7 @@ item:
 #  url: ""
 - certificate_url: https://drive.google.com/file/d/1EQMmo6uHmThE0NrOO8g59tyydigalE00/preview
   date_end: ""
-  date_start: "2015-05-04"
+  date_start: "2015"
   description: "Scholarship"
 #  organization: Purdue University - Calument - Department of Chemistry and Physics
 #  organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
