@@ -56,10 +56,8 @@ item:
 #  url: ""
 - certificate_url: https://drive.google.com/file/d/1EQMmo6uHmThE0NrOO8g59tyydigalE00/preview
   date_end: ""
-  date_start: "2015"
+  date_start: "2015-08-27"
   description: "Scholarship"
-#  organization: Purdue University - Calument - Department of Chemistry and Physics
-#  organization_url: https://meetings.aps.org/Meeting/MAR21/Content/3990
   title: 'Cindy and Mike Zeglin Endowed Undergraduate Scholarship in Chemical Engineering'
 
 design:
