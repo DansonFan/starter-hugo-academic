@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: Recent Activities
 widget_id: Recent Activities
 headless: true
 weight: 60
